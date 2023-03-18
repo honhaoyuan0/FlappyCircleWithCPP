@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\Projects_HHY\FlappyBird\main.cpp(83,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(83,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(83,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(84,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(84,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(84,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(84,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(85,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(85,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(85,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(85,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(99,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects_HHY\FlappyBird\main.cpp(115,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(116,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Projects_HHY\FlappyBird\main.cpp(121,70): warning C4305: '-=': truncation from 'double' to 'float'
+  FlappyBird.vcxproj -> D:\Projects_HHY\FlappyBird\x64\Debug\FlappyBird.exe
